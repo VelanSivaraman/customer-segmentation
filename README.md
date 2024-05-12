@@ -1,6 +1,6 @@
 # customer-segmentation
 Customer segmentation is a crucial task in marketing and business analytics, aiming to divide customers into groups based on their similarities. K-means clustering is a popular unsupervised learning algorithm used for segmentation tasks.
-# Steps Involved:
+# Steps Involved
 
 Data Collection: Gather relevant customer data such as demographics, purchase history, browsing behavior, etc.
 
@@ -15,7 +15,7 @@ Applying K-means: Run the K-means algorithm on the dataset.
 Interpretation: Analyze the resulting clusters and assign meaningful labels to them.
 
 Visualization: Visualize the clusters to understand the customer segments better.
-# This repository contains:
+# This repository contains
 Python code for performing customer segmentation using K-means.
 Sample dataset for experimentation.
 Detailed documentation explaining the code and methodology.
